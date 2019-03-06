@@ -2,7 +2,7 @@
   "name": "streamdemo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://webababy.github.io/stream/",
+  "homepage": "http://webababy.github.io/stream/",
   "dependencies": {
     "axios": "^0.18.0",
     "flv.js": "^1.5.0",
